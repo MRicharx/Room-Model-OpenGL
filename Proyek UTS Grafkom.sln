@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyek UTS Grafkom", "Proyek UTS Grafkom.csproj", "{4BECE77E-D025-4D1B-8507-38C665E84405}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "..\Common\Common.csproj", "{9E9217AF-BB4B-405E-8F72-D3D704F88EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BECE77E-D025-4D1B-8507-38C665E84405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BECE77E-D025-4D1B-8507-38C665E84405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BECE77E-D025-4D1B-8507-38C665E84405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BECE77E-D025-4D1B-8507-38C665E84405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9217AF-BB4B-405E-8F72-D3D704F88EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9217AF-BB4B-405E-8F72-D3D704F88EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9217AF-BB4B-405E-8F72-D3D704F88EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9217AF-BB4B-405E-8F72-D3D704F88EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7D41661-0535-4C06-AE06-18D4EA852ED7}
+	EndGlobalSection
+EndGlobal
